@@ -1,0 +1,25 @@
+<!--  created main to define the primary focus of the webpage  -->
+<main id = "main">
+<!--  2 simple headers to begin the page -->
+  <h1 id = "title">King Solomon</h1>
+<h3 id = "prelude">"The wisest man to walk the earth"</h3>
+<!-- images use div to import src to indicate the source. -->
+  <div id ="img-div">
+       
+    <img
+       id = "image"
+       src = "https://upload.wikimedia.org/wikipedia/commons/0/00/Nicolas_Poussin_-_The_Judgment_of_Solomon_-_WGA18330.jpg"/>  
+    <div id = "img-caption">The famous "judgement of Solomon" court case</div>
+  </div> 
+  
+  <p id = "tribute-info">
+    <ul> Reign: 970 - 931 BCE</ul> 
+  <ul> Predecessor: David</ul>
+  <ul> Successor: Rehoboth</ul>
+  Solomon was born in the house of King David, the second King of ancient Israel. Solomon was the second child of Bathsheeba David's wife. </p>
+
+<!-- id = "tribute_link" with element a that links outside the page. -->
+<a id = "tribute_link" href = "https://en.wikipedia.org/wiki/Solomon" target = "_blank">This links to the full wiki bio of Solomon the King. </a>
+
+</main>
+
